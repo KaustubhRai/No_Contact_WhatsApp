@@ -8,4 +8,6 @@ Run BotFather on Telegram and make a bot and get a token, insert it bot.py file
 
 - run the bot
 
-The code here is only made for running locally yet, the bot is serverless now and runs on AWS Lambda
+The code here is only made for running locally yet. 
+
+The bot is serverless now and runs on AWS Lambda, will update the code and Readme for Lambda functions and Serverless in the future. 
